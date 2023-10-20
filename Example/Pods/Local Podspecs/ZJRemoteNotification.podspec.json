@@ -1,0 +1,22 @@
+{
+  "name": "ZJRemoteNotification",
+  "version": "0.1.0",
+  "summary": "A short description of ZJRemoteNotification.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/yonathan/ZJRemoteNotification",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "yonathan": "yonathan@asetku.com"
+  },
+  "source": {
+    "git": "https://github.com/yonathan/ZJRemoteNotification.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "ZJRemoteNotification/Classes/**/*"
+}

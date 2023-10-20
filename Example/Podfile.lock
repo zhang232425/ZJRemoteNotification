@@ -1,0 +1,16 @@
+PODS:
+  - ZJRemoteNotification (0.1.0)
+
+DEPENDENCIES:
+  - ZJRemoteNotification (from `../`)
+
+EXTERNAL SOURCES:
+  ZJRemoteNotification:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ZJRemoteNotification: 7dd73a6bde4badfdb47679b085ef6685fd867552
+
+PODFILE CHECKSUM: 35aaf6f9ae4f574a077d6b25369d844d7fee1094
+
+COCOAPODS: 1.11.2

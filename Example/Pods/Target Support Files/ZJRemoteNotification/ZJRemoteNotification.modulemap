@@ -1,0 +1,6 @@
+framework module ZJRemoteNotification {
+  umbrella header "ZJRemoteNotification-umbrella.h"
+
+  export *
+  module * { export * }
+}

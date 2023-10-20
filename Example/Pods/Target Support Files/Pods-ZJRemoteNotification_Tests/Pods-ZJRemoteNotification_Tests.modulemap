@@ -1,0 +1,6 @@
+framework module Pods_ZJRemoteNotification_Tests {
+  umbrella header "Pods-ZJRemoteNotification_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

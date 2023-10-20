@@ -1,13 +1,11 @@
 use_frameworks!
-
 platform :ios, '10.0'
 
+source 'git@git.silvrr.com:Asetku/Specs.git'
+source 'https://github.com/CocoaPods/Specs.git'
+
 target 'ZJRemoteNotification_Example' do
+  
   pod 'ZJRemoteNotification', :path => '../'
 
-  target 'ZJRemoteNotification_Tests' do
-    inherit! :search_paths
-
-    
-  end
 end
